@@ -49,7 +49,7 @@ export const Navbar: React.FC = () => {
           {/* Logo */}
           <a
             href="#"
-            className="text-2xl font-bold tracking-tight text-white group transition-opacity hover:opacity-80"
+            className="text-2xl font-semibold tracking-tight text-white group transition-opacity hover:opacity-80"
           >
             atharv
             <span className="text-acid inline-block transition-transform group-hover:-translate-y-1 duration-300">.</span>
