@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Container } from '../components/Container';
 import { Button } from '../components/Button';
-const HeroWebp = '../assets/hero.webp'; // <- import the file
+import HeroWebp from '../assets/hero.webp'; 
 
 export const Hero: React.FC = () => {
   const [loaded, setLoaded] = useState(false);
