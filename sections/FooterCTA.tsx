@@ -33,7 +33,7 @@ export const FooterCTA: React.FC = () => {
           </div>
 
           <div className="mt-24 pt-8 border-t border-white/5 flex flex-col md:flex-col justify-between items-center text-neutral-600 text-sm ">
-             <p>&copy; {new Date().getFullYear()} Atharv. All rights reserved.</p>
+             <p>&copy; {new Date().getFullYear()} DevVincii. All rights reserved.</p>
              {/* <div className="flex space-x-6 mt-4 md:mt-0">
                <a href="" className="hover:text-white transition-colors">Twitter</a>
                <a href="#" className="hover:text-white transition-colors">Instagram</a>

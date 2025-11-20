@@ -51,7 +51,7 @@ export const Navbar: React.FC = () => {
             href="#"
             className="text-2xl font-semibold tracking-tight text-white group transition-opacity hover:opacity-80"
           >
-            atharv
+            devvincii
             <span className="text-acid inline-block transition-transform group-hover:-translate-y-1 duration-300">.</span>
           </a>
 
